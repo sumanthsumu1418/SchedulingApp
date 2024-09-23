@@ -10,7 +10,7 @@ export default function Home() {
       
     </div>
     <div className="flex flex-col justify-center mt-[12%] text-center text-[#CB1517] text-[3rem] font-bold">
-        coming soon......
+        coming soon......Hi...........
     </div>
     </>
   );
